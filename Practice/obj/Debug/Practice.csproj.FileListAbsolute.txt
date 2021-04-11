@@ -1,0 +1,11 @@
+C:\Users\mihana\source\repos\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\mihana\source\repos\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\mihana\source\repos\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\mihana\source\repos\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\mihana\source\repos\Practice\Practice\obj\Debug\Practice.Login.resources
+C:\Users\mihana\source\repos\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\mihana\source\repos\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\mihana\source\repos\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\mihana\source\repos\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\mihana\source\repos\Practice\Practice\obj\Debug\Practice.Menu.resources
+C:\Users\mihana\source\repos\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
