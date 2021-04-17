@@ -9,3 +9,6 @@ C:\Users\mihana\source\repos\Practice\Practice\obj\Debug\Practice.exe
 C:\Users\mihana\source\repos\Practice\Practice\obj\Debug\Practice.pdb
 C:\Users\mihana\source\repos\Practice\Practice\obj\Debug\Practice.Menu.resources
 C:\Users\mihana\source\repos\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\mihana\source\repos\Practice\Practice\bin\Debug\Dapper.dll
+C:\Users\mihana\source\repos\Practice\Practice\bin\Debug\Dapper.xml
+C:\Users\mihana\source\repos\Practice\Practice\obj\Debug\Practice.csproj.CopyComplete
