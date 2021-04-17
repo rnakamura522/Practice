@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Practice.Common
+namespace Practice.Model
 {
-    public class Pramater
+    class Constant
     {
         public const string ConStr= @"Data Source=DESKTOP-VKI5EME\SQLEXPRESS;Initial Catalog=PracticeDB;Integrated Security=True";
-
     }
 }

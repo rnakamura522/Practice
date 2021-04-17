@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using Practice.Controller;
-using Practice.Common;
 using Practice.Model;
 
 namespace Practice
@@ -34,17 +33,9 @@ namespace Practice
 
             // ログイン確認
             LoginController loginController = new LoginController();
-            UserDataModel Model = loginController.CheckLogin(UserId, Password);
-            if (Model.flg)
+            if (!loginController.Login(UserId, Password))
             {
-                // メニュー画面へ遷移
-                Menu menu = new Menu();
-                menu.Model = Model;
-                menu.ShowDialog();
-            }
-            else
-            {
-                MessageBox.Show("失敗");
+                MessageBox.Show("ログイン失敗");
             }
         }
     }
